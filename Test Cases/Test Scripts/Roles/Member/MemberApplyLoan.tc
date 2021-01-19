@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MemberApplyLoan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e9103b9-4701-4309-84fa-7a88ce706557</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>8b33d4da-18a9-4993-a5da-7ead499a1918</id>
+      <masked>false</masked>
+      <name>paymentTermIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>'PLDT'</defaultValue>
+      <description></description>
+      <id>7b7de8b1-ac48-4842-895e-2ee280fff655</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+</TestCaseEntity>
