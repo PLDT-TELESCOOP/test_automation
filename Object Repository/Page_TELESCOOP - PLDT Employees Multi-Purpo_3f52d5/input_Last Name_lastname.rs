@@ -58,13 +58,6 @@
       <type>Main</type>
       <value>id(&quot;lastname&quot;)</value>
    </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe</value>
-   </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>

@@ -11,12 +11,27 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'member1'</initValue>
-      <name>userMember</name>
+      <initValue>1</initValue>
+      <name>companyIndex</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'tzH6RvlfSTg='</initValue>
-      <name>memPass</name>
+      <initValue>1</initValue>
+      <name>paymentTermIndex</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>approversIndex</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://outlook.office.com/mail/inbox'</initValue>
+      <name>emailLink</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>FSDLJr</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

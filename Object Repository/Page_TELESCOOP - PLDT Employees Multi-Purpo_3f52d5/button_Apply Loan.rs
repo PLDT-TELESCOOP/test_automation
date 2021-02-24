@@ -65,13 +65,6 @@
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;btn btn-success btn-lg&quot;]</value>
    </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe</value>
-   </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>

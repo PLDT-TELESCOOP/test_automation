@@ -6,12 +6,12 @@
    <elementGuidId>0de75e6a-a857-4075-99e1-7a0e8b6de7a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#add-row</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@id=&quot;add-row&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add-row</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -57,13 +57,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-row&quot;)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

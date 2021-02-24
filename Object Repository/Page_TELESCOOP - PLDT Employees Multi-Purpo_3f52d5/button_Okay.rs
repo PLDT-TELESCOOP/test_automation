@@ -6,18 +6,22 @@
    <elementGuidId>dcabb726-79b1-4ada-8e25-c8faa1a90b36</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//button[@id='modalOK']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;modalOK&quot;)[count(. | //button[@id = 'modalOK' and @type = 'button' and @class = 'btn btn-success' and (text() = 'Okay' or . = 'Okay') and @ref_element = 'Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe']) = count(//button[@id = 'modalOK' and @type = 'button' and @class = 'btn btn-success' and (text() = 'Okay' or . = 'Okay') and @ref_element = 'Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe'])]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#modalOK</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;modalOK&quot;]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -38,7 +42,7 @@
       <value>button</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
@@ -52,18 +56,11 @@
       <value>Okay</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modalOK&quot;)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

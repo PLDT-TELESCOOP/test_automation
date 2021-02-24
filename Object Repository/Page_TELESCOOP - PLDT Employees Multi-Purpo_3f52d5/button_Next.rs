@@ -6,12 +6,12 @@
    <elementGuidId>23cff10e-b83b-441a-b6f8-4b6e6ed130fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.sw-btn-next</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@id=&quot;smartwizard&quot;]/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.sw-btn-next</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -50,13 +50,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;smartwizard&quot;)/div[@class=&quot;toolbar toolbar-bottom&quot;]/button[@class=&quot;btn sw-btn-next&quot;]</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_TELESCOOP - PLDT Employees Multi-Purpo_3f52d5/iframe</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
