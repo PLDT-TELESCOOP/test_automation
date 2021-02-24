@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_LoginAsMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5f08bb1-4bc2-4690-8e9b-21e6d1176a01</testCaseGuid>
+</TestCaseEntity>

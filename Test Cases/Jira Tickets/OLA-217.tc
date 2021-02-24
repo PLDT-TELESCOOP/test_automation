@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: [Test]
+Description: USER STORY: As a CS, I should be able to receive notification when a PO completed all required BOD/GM approval</description>
+   <name>OLA-217</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:&quot;Checklist: 0/6&quot;,&quot;customfield_10031&quot;:{&quot;value&quot;:&quot;0.0&quot;},&quot;customfield_10020&quot;:[{&quot;id&quot;:18,&quot;name&quot;:&quot;Sprint 5&quot;,&quot;state&quot;:&quot;active&quot;,&quot;boardId&quot;:3,&quot;goal&quot;:&quot;Continuation of the previous sprint.  Should close all pending issues&quot;,&quot;startDate&quot;:&quot;2021-02-08T05:00:00.017Z&quot;,&quot;endDate&quot;:&quot;2021-02-19T05:00:00.000Z&quot;},{&quot;id&quot;:8,&quot;name&quot;:&quot;Sprint 4&quot;,&quot;state&quot;:&quot;closed&quot;,&quot;boardId&quot;:3,&quot;goal&quot;:&quot;Improve security and communication for the users.&quot;,&quot;startDate&quot;:&quot;2021-01-25T11:38:46.745Z&quot;,&quot;endDate&quot;:&quot;2021-02-08T11:38:00.000Z&quot;,&quot;completeDate&quot;:&quot;2021-02-05T12:42:29.328Z&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10024&quot;:&quot;2021-01-29T17:54:41.126+0800&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i001ev:&quot;},&quot;status&quot;:{&quot;id&quot;:3,&quot;description&quot;:&quot;This issue is being actively worked on at the moment by the assignee.&quot;,&quot;iconUrl&quot;:&quot;https://etbms.atlassian.net/images/icons/statuses/inprogress.png&quot;,&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/status/3&quot;,&quot;name&quot;:&quot;In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/project/10002&quot;,&quot;key&quot;:&quot;OLA&quot;,&quot;id&quot;:10002,&quot;name&quot;:&quot;Online Loan Application&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;[Test]&quot;,&quot;description&quot;:&quot;USER STORY: As a CS, I should be able to receive notification when a PO completed all required BOD/GM approval&quot;,&quot;reporter&quot;:{&quot;active&quot;:true,&quot;displayName&quot;:&quot;Automation for Jira&quot;,&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/user?accountId\u003d557058%3Af58131cb-b67d-43c7-b30d-6b58d40bd077&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;nrochotorena@student.apc.edu.ph&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Neil Ochotorena&quot;,&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/user?accountId\u003d70121%3Ae071f297-c1d7-4883-bb95-8601479a5bfc&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/issue/OLA-217/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://etbms.atlassian.net/rest/api/2/issue/10298&quot;,&quot;key&quot;:&quot;OLA-217&quot;,&quot;id&quot;:10298}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>dc8b189b-ce79-4847-ad54-0c9fd0890909</testCaseGuid>
+</TestCaseEntity>

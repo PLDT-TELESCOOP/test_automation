@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_NavigateToApplyLoanWizard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3b5c9ec-a628-4dd6-bb65-e7b66529cdc1</testCaseGuid>
+</TestCaseEntity>
